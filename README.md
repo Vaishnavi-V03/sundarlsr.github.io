@@ -29,6 +29,10 @@ This project contains code for some common important algorithms listed below -
 
 4 - Stack Program - Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
 
+5 - Map Program - A program that looks for the work entered in it's predefined dictionary.
+
+6 - Transform Program - A program that transforms the members of a list into their squared algorithm using transform function.
+
 The source code for all the above mentioned algorithms are available in C++ language in this repository.
 
 The repository also contains the needed header file(S) for these algorithms.
